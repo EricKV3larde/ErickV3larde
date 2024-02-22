@@ -2,11 +2,11 @@
 
 <p align="center" width="150px"> Actualmente estoy en el séptimo semestre de la carrera de Ingeniería de Sistemas en la Universidad Católica de Santa María (UCSM)</p>
 
-<p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7BKevinPatel04%7D/count.svg" alt="visitor badge"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinPatel04&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=KevinPatel04&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=KevinPatel04&theme=chartreuse-dark"></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickV3larde&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=ErickV3larde&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=ErickV3larde&theme=chartreuse-dark"></p>
+
 
 ### 🛠 &nbsp;Tech Stack
 
