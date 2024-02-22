@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, Buenass, soy Erick </h1>
+<h1 align="center">Buenass <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">,  soy Erick </h1>
 
 <p align="center" width="150px"> Actualmente estoy en el séptimo semestre de la carrera de Ingeniería de Sistemas en la Universidad Católica de Santa María (UCSM)</p>
 
